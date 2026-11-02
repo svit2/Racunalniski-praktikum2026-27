@@ -1,0 +1,7 @@
+*.aux
+!slika.pdf
+*.pdf
+*.synctex.gz
+*.log
+*.fls
+*.fdb_latexmk
